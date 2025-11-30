@@ -1,2 +1,2 @@
-# Nanditha_Protfolio
+# Nanditha_Portfolio
 Data science portfolio
